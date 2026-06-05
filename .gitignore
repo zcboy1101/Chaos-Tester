@@ -1,0 +1,7 @@
+.env
+.env*.local
+.next/
+.superpowers/
+node_modules/
+coverage/
+npm-debug.log*
