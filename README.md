@@ -4,6 +4,10 @@ Chaos-Tester 是一个 AI 驱动的 API 边界测试引擎。用户输入目标 
 
 > 仅用于你拥有授权的 API、测试环境或靶场环境。不要对第三方系统发起未经授权的请求。
 
+## 界面预览
+
+![Chaos-Tester Dashboard](./docs/images/chaos-tester-dashboard.png)
+
 ## 功能特性
 
 - Next.js App Router + TypeScript + Tailwind CSS
